@@ -115,7 +115,7 @@ Glist Engine has one-click installers for Windows, Linux and Mac. You can downlo
 
 #### 7- Clone the GlistEngine repo
 
-> git clone https://github.com/yourgithubusername/glistengine.git
+> git clone https://github.com/bnrern/glistengine.git
 
 
 #### 8- Go to myglistapps folder
